@@ -6,7 +6,7 @@ let defaultHTML = `
 <html lang=en>
   <head>
     <meta charset=utf-8>
-    <title>Hi!</title>
+    <title>Hi There!</title>
     <link rel="stylesheet" href="https://static.begin.app/starter/default.css">
   </head>
   <body>
